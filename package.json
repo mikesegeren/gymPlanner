@@ -1,0 +1,24 @@
+{
+  "name": "gymspot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikesegeren/gymPlanner.git"
+  },
+  "author": "Mike Segeren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikesegeren/gymPlanner/issues"
+  },
+  "homepage": "https://github.com/mikesegeren/gymPlanner#readme",
+  "dependencies": {
+    "node-cron": "^2.0.3",
+    "request": "^2.88.2",
+    "shelljs": "^0.8.4"
+  }
+}
